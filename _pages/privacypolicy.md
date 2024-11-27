@@ -14,7 +14,6 @@ Welcome to Range Rat! Your privacy is important to us. This Privacy Policy expla
 ## Information We Collect  
 
 ### 1. Data You Provide Directly  
-- **Account Information:** If the app allows account creation, we may collect your name, email address, and password.  
 - **Shot Tracking Data:** Information about your golf practice sessions, including distances, shot shapes, and heights, is stored locally or in the cloud.  
 
 ### 2. Automatically Collected Information  
