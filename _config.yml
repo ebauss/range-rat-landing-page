@@ -49,10 +49,6 @@ features                                  :
     description                           : Log your performance shot-by-shot. Keep a detailed record to monitor your progress over time.
     fontawesome_icon_name                 : chart-line
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
   - title                                 : Session Analysis
     description                           : Dive deep into your stats after each session. Analyze trends, identify strengths, and pinpoint areas to improve.
     fontawesome_icon_name                 : chart-pie
