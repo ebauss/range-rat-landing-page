@@ -37,7 +37,7 @@ mastodon_link                             :
 features                                  :
 
   - title                                 : Randomized Targets
-    description                           : Challenge yourself with randomized sitances for each shot - hone your precision and improve your control.
+    description                           : Challenge yourself with randomized distances for each shot - hone your precision and improve your control.
     fontawesome_icon_name                 : bullseye
     
   - title                                 : Dynamic Shot Challenges
