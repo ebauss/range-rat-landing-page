@@ -73,6 +73,5 @@ We may update this Privacy Policy from time to time. Changes will be reflected w
 ## Contact Us  
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
 **Email:** evon.bausa@gmail.com
-**Website:** [\[Insert Website URL\]  ](https://ebauss.github.io/range-rat-landing-page/)
 
 Thank you for using Range Rat! Your trust means everything to us.
